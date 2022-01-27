@@ -5,18 +5,17 @@
 
 ![status](https://img.shields.io/badge/status-up-brightgreen) ![Gender](https://img.shields.io/badge/gender-%F0%9F%A4%B5-lightgrey) ![](https://img.shields.io/static/v1?label=wechat&message=secretlzm007&color=7BB32E&logo=wechat) ![](https://visitor-badge.glitch.me/badge?page_id=github.com/lizheming)
 
-Hi guys, I'm **Li Zheming**. I am a JavaScript developer from Beijing, China. I'm currently working on @75team as a Font-End engineer.  
-I have some works with **JavaScript**, **Node.js** and **SVG**, contact me if you have same interesting or some questions!
+Hi guys, Palm Rider Racing game is a **fast-paced fun-centric** bike racing game that uses 3D NFT characters. Our game will be an authentic, complete, and most of all FUN game + ecosystem in which players earn, fuel, buy, sell, upgrade, and race with and against. 
 
-## 📫 Contact Me on Social Media
+## 📫 Contact Us on Social Media
 
-[Facebook][-1] | [Sina Weibo][0] | [Zhihu][1] | [SegmentFault][2] | [V2EX][3] or just ✉️ [Email](mailto:i@imnerd.org) | 💬 [Issue](https://github.com/lizheming/lizheming/issues/me) Me about everything!
+[Facebook][-1] | [Palm Rider Game][0] | [palmrider@palmrider.com][1] | [Twitter][2] | [Discord][3] or just ✉️ [Email](mailto:palmrider@palmrider.com) | 💬 [Issue](https://github.com/lizheming/lizheming/issues/me) Me about everything!
 
-## 💡 Projects with My Work
+## 💡 Projects
 
-- [**75.team**](https://75.team): The Official Blog for 75team, the largest front end team in @Qihoo360.
-- [**75CDN**](https://cdn.baomitu.com): The best CDN for web related libraries to speed up your websites, mirror from @cdnjs.
-- [**声享**](https://ppt.baomitu.com): Create and share your presentations online.
+- [**Token**](): The Official Blog for 75team, the largest front end team in @Qihoo360.
+- [**Audit**](): The best CDN for web related libraries to speed up your websites, mirror from @cdnjs.
+- [**WhitePaper**]: Create and share your presentations online.
 
 ## 📚 Tech Articles and Talks 
 
@@ -27,24 +26,21 @@ And get all my post articles in my blog 📝 [**zh.eming.li**](https://imnerd.or
 ## 💻 Open Source Work Stats
 
 
-![lizheming's Github stats](https://github-readme-stats.vercel.app/api?username=lizheming&show_icons=true)
+![Palm Rider Github stats](https://github-readme-stats.vercel.app/api?username=lizheming&show_icons=true)
 
 <!--
 **lizheming/lizheming** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 🔭 We're currently working on Game Development...
+- 👯 We're looking to collaborate on ...
+- 🤔 We're looking for help with ...
+- 📫 How to reach us
 - ⚡ Fun fact: ...
 -->
-[-1]: https://www.facebook.com/Austin.Lee.9173/
-[0]: https://m.weibo.cn/u/1694884707
-[1]: https://www.zhihu.com/people/lizheming
-[2]: https://segmentfault.com/u/lizheming
-[3]: https://www.v2ex.com/member/lizheming
+[-1]: https://www.facebook.com/
+[0]: https://palmrider.com/
+[1]: https://twitter.com/palmridergame/
+[2]: https://discord.gg/
+[3]: https://t.me/palmrider
