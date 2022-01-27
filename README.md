@@ -9,19 +9,19 @@ Hi guys, Palm Rider Racing game is a **fast-paced fun-centric** bike racing game
 
 ## 📫 Contact Us on Social Media
 
-[Facebook][-1] | [Palm Rider Game][0] | [palmrider@palmrider.com][1] | [Twitter][2] | [Discord][3] or just ✉️ [Email](mailto:palmrider@palmrider.com) | 💬 [Issue](https://github.com/lizheming/lizheming/issues/me) Me about everything!
+[Facebook][-1] | [Palm Rider Game][0] | [palmrider@palmrider.com][1] | [Twitter][2] | [Discord][3] or just ✉️ [Email](mailto:palmrider@palmrider.com) | 💬 [Issue](hhttps://palmrider.com) Me about everything!
 
 ## 💡 Projects
 
-- [**Token**](): The Official Blog for 75team, the largest front end team in @Qihoo360.
-- [**Audit**](): The best CDN for web related libraries to speed up your websites, mirror from @cdnjs.
-- [**WhitePaper**]: Create and share your presentations online.
-
+- [**Token**](https://palmrider.com): The Official Blog for 75team, the largest front end team in @Qihoo360.
+- [**Audit**](https://palmrider.com): The best CDN for web related libraries to speed up your websites, mirror from @cdnjs.
+- [**WhitePaper**](https://palmrider.com): Create and share your presentations online.
+- [**Game Development**](https://palmrider.com): Create and share your presentations online.
 ## 📚 Tech Articles and Talks 
 
-You can find a list of my talks' presentation on 📖 **[ppt.baomitu.com](https://ppt.baomitu.com/u/lizheming)**. 
+You can find a list of my talks' presentation on 📖 **[ppt.baomitu.com]()**. 
 
-And get all my post articles in my blog 📝 [**zh.eming.li**](https://imnerd.org). 
+And get all my post articles in my blog 📝 [**Palm Rider**](https://palmrider.com). 
  
 ## 💻 Open Source Work Stats
 
